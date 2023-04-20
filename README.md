@@ -35,6 +35,3 @@
   <a href="http://lattes.cnpq.br/7287125367607344" target="_blank"><img src="https://img.shields.io/badge/Lattes-025E8C?style=for-the-badge&logo" target="_blank"></a>
  </div>
   
-  <p align="center"> 
-  ![Snake animation](https://github.com/joaocarlos-dev/joaocarlos-dev/blob/output/github-contribution-grid-snake.svg)
- </p>
