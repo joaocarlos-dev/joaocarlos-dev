@@ -31,7 +31,7 @@
 <!-- shields.io-->
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="COLOCAR LINK QUANDO TIVER PRONTO" target="_blank"><img src="https://img.shields.io/badge/Portifolio-3CB043?style=for-the-badge&logo" target="_blank"></a>
+  <a href="EM CONSTRUÇÃO" target="_blank"><img src="https://img.shields.io/badge/Portifolio-3CB043?style=for-the-badge&logo" target="_blank"></a>
   <a href="http://lattes.cnpq.br/7287125367607344" target="_blank"><img src="https://img.shields.io/badge/Lattes-025E8C?style=for-the-badge&logo" target="_blank"></a>
  </div>
   
