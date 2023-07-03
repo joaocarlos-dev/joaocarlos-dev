@@ -1,4 +1,4 @@
-<h1 align="left">**Hi there** 👋</h1>
+<h1 align="left">Hi there👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">**Contact me:**</h4>
+<h4 align="left">Contact me:</h4>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">**My languages and tools:**</h4>
+<h4 align="left">My languages and tools:</h4>
 
 ###
 
