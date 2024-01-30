@@ -12,6 +12,9 @@
 
 ###
 
+<h2 align="start">Meus conhecimentos e tecnologias:</h2>
+
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -44,6 +47,9 @@
 
 ###
 
+<h2 align="start">Minhas redes e contatos:</h2>
+
+###
 <div align="center">
   <a href="https://br.linkedin.com/in/joao-henrique-jorge-carlos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
