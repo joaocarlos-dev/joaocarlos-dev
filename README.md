@@ -1,8 +1,8 @@
-<h2 align="center">Olá! 👋</h2>
+<h1 align="center">Olá! 👋</h1>
 
 ###
 
-<h4 align="center">Meu nome é João, tenho 20 anos e atualmente estou estudando para ser um desenvolvedor Full-Stack.</h4>
+<h2 align="center">Meu nome é João, tenho 20 anos e atualmente estou estudando para ser um desenvolvedor Full-Stack.</h2>
 
 ###
 
