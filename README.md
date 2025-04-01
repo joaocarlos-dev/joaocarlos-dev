@@ -1,6 +1,8 @@
 <div align="center">
-  # **Olá! Sou o joão, Desenvolvedor Fullstack**
+  # Olá! Sou o joão
+  ## **Desenvolvedor Fullstack**
   Atualmente, trabalho na **INOV.AI TECH**
+</div>
   
   ## 💻 Tecnologias:
   <div align="center">
