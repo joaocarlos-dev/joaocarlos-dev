@@ -1,9 +1,8 @@
 <div align="center">
-  # Olá! Eu sou o João  
+  ## Olá! Eu sou o João
   
   ## **Desenvolvedor Fullstack**
   Atualmente, trabalho na **INOV.AI TECH**
-  
   
   ## 💻 Tecnologias:
   <div align="center">
@@ -32,8 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
   # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=Ja1zinh0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=Ja1zinh0&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=Ja1zinh0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://nirzak-streak-stats.vercel.app/?user=Ja1zinh0&theme=dark&hide_border=false)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1zinh0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
     
   ### 🔝 Top Contributed Repo
