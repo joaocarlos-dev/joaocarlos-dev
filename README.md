@@ -1,9 +1,7 @@
-<div align="center">
-  # Olá! Sou o joão
-  ## **Desenvolvedor Fullstack**
+# Olá! Sou o joão
+## **Desenvolvedor Fullstack**
   Atualmente, trabalho na **INOV.AI TECH**
-</div>
-  
+ 
   ## 💻 Tecnologias:
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -29,18 +27,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-</div>
-  ## 📊 GitHub Stats:
+  </div>
+  
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ja1zinh0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ja1zinh0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-    
-  ### 🔝 Top Contributed Repo
+  </div>
+  <div align="center">
   ![](https://github-contributor-stats.vercel.app/api?username=Ja1zinh0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+  </div>
+  
 ## 📫 Como me encontrar?  
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-henrique-jorge-carlos/" target="_blank">
