@@ -30,7 +30,7 @@ Sou desenvolvedor Fullstack e atualmente, trabalho na **INOV.AI TECH**
 
   ## Status:
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ja1zinh0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaocarlos-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   </div>
 
 ## 📫 Como me encontrar?  
