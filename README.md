@@ -1,5 +1,5 @@
 # Olá! Sou o joão
-Sou desenvolvedor Fullstack e atualmente, trabalho na **INOV.AI TECH**
+Sou desenvolvedor Fullstack.
 
   ## 💻 Tecnologias:
   <div align="center">
