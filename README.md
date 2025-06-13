@@ -1,5 +1,5 @@
 # Olá! Sou o joão
-Sou um desenvolvedor Fullstack apaixonado por tecnologias. Sou proeficiente em: React, Next.JS, TypeScript, HTML, Tailwind, CSS, Python, FastAPI 
+Sou um desenvolvedor Fullstack apaixonado por tecnologias. Sou proeficiente em: React, Next.JS, TypeScript, JavaScript, HTML, Tailwind, CSS, Node.Js, Nest.Js, Python
 
   ## 💻 Tecnologias:
   <div align="center">
